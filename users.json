@@ -1,4 +1,4 @@
 {
-  "alice": "gamma",
-  "bob": "123456"
+  "alice": { "password": "1234", "role": "admin" },
+  "bob": { "password": "abcd", "role": "user" }
 }
