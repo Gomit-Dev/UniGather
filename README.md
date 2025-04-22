@@ -62,35 +62,35 @@ The primary goal is to create a central hub for local event information, connect
 
 UniGather/
 ├── includes/
-│   ├── db_connect.php         # Database connection
-│   ├── header.php             # Common HTML head, navigation
-│   ├── footer.php             # Common HTML footer, JS includes
-│   └── template_parts/        # Reusable UI components
-│       └── event_card.php     # Template for event display card
+│   ├── db_connect.php
+│   ├── header.php
+│   ├── footer.php
+│   └── template_parts/
+│       └── event_card.php
 │
-├── uploads/                   # Directory for user uploads
-│   └── event_images/          # Stores uploaded event images (NEEDS WRITE PERMISSIONS)
+├── uploads/
+│   └── event_images/
 │
-├── add_event.php              # Form/Logic to add new events (Admin)
-├── admin_panel.php            # Admin dashboard for user/event management
-├── change_role.php            # Backend script for admin changing user roles
-├── contact.php                # Contact Us page
-├── dashboard.php              # Main event listing/dashboard page
-├── delete_event.php           # Backend script for deleting events (Admin)
-├── delete_user.php            # Backend script for admin deleting users
-├── edit_event.php             # Form/Logic to edit events (Admin)
-├── handle_rsvp.php            # Backend script for handling RSVP/Cancel actions
-├── index.php                  # Entry point (likely redirects to login/dashboard)
-├── login.php                  # Login page and handler
-├── logout.php                 # Logout script
-├── my_rsvps.php               # Page for users to view their registered events
-├── privacy.php                # Privacy Policy page (Template)
-├── profile.php                # User profile view/password change page
-├── search_results.php         # Displays event search results
-├── signup.php                 # Signup page and handler
-├── support.php                # Support Center page (Template)
-├── terms.php                  # Terms and Conditions page (Template)
-└── view_event.php             # Page to view details of a single event
+├── add_event.php
+├── admin_panel.php
+├── change_role.php
+├── contact.php
+├── dashboard.php
+├── delete_event.php
+├── delete_user.php
+├── edit_event.php
+├── handle_rsvp.php
+├── index.php
+├── login.php
+├── logout.php
+├── my_rsvps.php
+├── privacy.php
+├── profile.php
+├── search_results.php
+├── signup.php
+├── support.php
+├── terms.php
+└── view_event.php
 
 
 ## Setup Instructions
