@@ -149,7 +149,6 @@ UniGather/
 **Admin Panel - User Management:**
 ![Admin User Management](screenshots/admin_users.png)
 
-*(Replace the paths and descriptions above with your actual screenshots)*
 
 ## Remaining Features / Future Enhancements
 
