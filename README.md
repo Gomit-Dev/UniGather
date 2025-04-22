@@ -92,7 +92,7 @@ UniGather/
 ├── support.php                # Support Center page (Template)
 ├── terms.php                  # Terms and Conditions page (Template)
 └── view_event.php             # Page to view details of a single event
-
+```
 
 ## Setup Instructions
 
@@ -112,7 +112,7 @@ UniGather/
     * You can register a user normally through the signup form.
     * Then, manually edit that user's record in the `users` table using phpMyAdmin: change the `role` column value from `user` to `admin`.
 7.  **Access the Site:** Open your web browser and navigate to the project directory on your local server (e.g., `http://localhost/UniGather/`). You should be redirected to the login page.
-```
+
 
 ## How to Use
 
