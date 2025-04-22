@@ -141,13 +141,13 @@ UniGather/
 **Example:**
 
 **Dashboard:**
-![Dashboard View](screenshots/dashboard.png "Main Dashboard")
+![Dashboard View](screenshots/dashboard.png)
 
 **Login Page:**
-![Login Page](screenshots/login.png "Login Form")
+![Login Page](screenshots/login.png)
 
 **Admin Panel - User Management:**
-![Admin User Management](screenshots/admin_users.png "Admin User List")
+![Admin User Management](screenshots/admin_users.png)
 
 *(Replace the paths and descriptions above with your actual screenshots)*
 
